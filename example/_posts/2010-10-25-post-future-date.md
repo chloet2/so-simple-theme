@@ -1,5 +1,5 @@
 ---
-title: "Post: Future Date"
+title: "Post: My First Post"
 date: 9999-12-31
 categories:
   - Post
